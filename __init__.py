@@ -1,6 +1,6 @@
 # Generation ID: Hutch_1763365786400_mphx94bbp (前半)
 
-def myosero(board, color):
+def myai(board, color):
     """
     オセロの最適な置き手を返す関数
     入力: board(6x6または8x8), color(1=白, 2=黒)
