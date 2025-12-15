@@ -86,4 +86,4 @@ board3=[
 [0,0,0,2,0,0],
 [0,0,0,0,0,0],
 ]
-myosero(board3,1)
+myai(board3,1)
