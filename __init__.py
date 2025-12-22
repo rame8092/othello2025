@@ -77,13 +77,3 @@ def count_flips(board, col, row, color, opponent):
     return total_flips
 
 # Generation ID: Hutch_1763365786400_mphx94bbp (後半)
-
-board3=[
-[0,0,0,2,0,1],
-[0,1,1,2,2,0],
-[0,1,1,2,1,2],
-[0,1,1,2,1,0],
-[0,0,0,2,0,0],
-[0,0,0,0,0,0],
-]
-myai(board3,1)
